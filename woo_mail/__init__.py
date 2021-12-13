@@ -1,1 +1,1 @@
-from .send_mail import *
+from woo_mail.send_mail import *
