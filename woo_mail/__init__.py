@@ -1,1 +1,1 @@
-from send_mail import *
+from .send_mail import *
